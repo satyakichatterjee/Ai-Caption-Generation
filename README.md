@@ -127,12 +127,12 @@ Special tokens such as `<START>`, `<END>`, `<PAD>`, and `<UNK>` are used to repr
 
 Planned milestones:
 
-* [ ] Set up project environment
-* [ ] Prepare Flickr8k dataset
-* [ ] Implement image preprocessing
-* [ ] Extract image features using ResNet-50
-* [ ] Build caption vocabulary
-* [ ] Implement caption tokenization
+* [x] Set up project environment
+* [x] Prepare Flickr8k dataset
+* [x] Implement image preprocessing
+* [x] Extract image features using ResNet-50
+* [x] Build caption vocabulary
+* [x] Implement caption tokenization
 * [ ] Implement LSTM decoder
 * [ ] Train captioning model
 * [ ] Implement caption generation
